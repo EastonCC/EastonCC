@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Easton Conkin, a computer science student at Valdosta State University.
+
+I am currently interested in video game design and development.
 
 <!--
 **EastonCC/EastonCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
